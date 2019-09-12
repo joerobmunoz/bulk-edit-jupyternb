@@ -1,10 +1,10 @@
 Type: Jupyter Notebook Extension
 Compatibility: 3.x, 4.x, 5.x, 6.x
-Name: Sublime Keymaps
+Name: Sublime Keymap
 Main: main.js
 Link: README.md
 Description:
   Enabling this extension adds the Sublime-style key bindings as defaults. These 
-  key bindings support familiar operations such as Bulk Edit.
+  key bindings support familiar operations such as Multi-Cursor / Bulk Edit operations.
 Parameters:
 - none
