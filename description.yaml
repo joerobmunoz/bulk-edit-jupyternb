@@ -1,12 +1,10 @@
 Type: Jupyter Notebook Extension
 Compatibility: 3.x, 4.x, 5.x, 6.x
-Name: Bulk Edit
+Name: Sublime Keymaps
 Main: main.js
 Link: README.md
 Description:
-  Adds a default key binding for the "Bulk Edit" functionality, found in most 
-  modern text editors and IDEs. When a character sequence is highlighted, it 
-  finds the next exact match of the cursor buffer, keeping the cursor position 
-  in tact over each match.
+  Enabling this extension adds the Sublime-style key bindings as defaults. These 
+  key bindings support familiar operations such as Bulk Edit.
 Parameters:
 - none
